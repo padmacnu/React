@@ -1,0 +1,16 @@
+.search-bar {
+  padding: 2%;
+  width: 100%;
+}
+.search-bar__input {
+  width: 100%;
+}
+.details {
+  padding: 10px 0 0 0;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background: #eee;
+}
